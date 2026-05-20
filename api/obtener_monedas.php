@@ -4,6 +4,7 @@ require_once '../conexion.php';
 try {
     $sql = "SELECT id, nombre, simbolo FROM monedas ORDER BY nombre ASC";
     $stmt = $conexion->prepare($sql);
+    
     $stmt->execute();
     $monedas = $stmt->fetchAll();
 
