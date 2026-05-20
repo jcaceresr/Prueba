@@ -4,8 +4,8 @@
 
 Para ejecutar este proyecto localmente en Windows 11, asegúrese de tener instalado:
 1. Visual Studio Code (o su editor de código preferido).
-2. XAMPP (con los servicios de Apache y PHP).
-3. PostgreSQL y pgAdmin 4 para la gestión de la base de datos.
+2. XAMPP (con los servicios de Apache y PHP 8.2.12). 
+3. PostgreSQL 18 y pgAdmin 4 para la gestión de la base de datos.
 
 ------------------------------------------------------------------------
 2. GUÍA DE INSTALACIÓN Y CONFIGURACIÓN
